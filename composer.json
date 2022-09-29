@@ -1,0 +1,12 @@
+{
+    "name": "vitormattos/nextcloud-skeleton",
+    "description": "Nextcloud skeleton generator",
+    "type": "project",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Vitor Mattos"
+        }
+    ],
+    "minimum-stability": "stable"
+}
