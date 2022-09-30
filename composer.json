@@ -8,5 +8,8 @@
             "name": "Vitor Mattos"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "bin": [
+        "skeleton"
+    ]
 }
